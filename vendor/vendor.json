@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "9vYLjmpoC/EExpZP256WSZY9m20=",
+			"path": "github.com/apcera/termtables",
+			"revision": "376560f0b13dc5279cd16f6f94a3e3fab6008b23",
+			"revisionTime": "2016-12-02T20:31:05Z"
+		},
+		{
+			"checksumSHA1": "YoQtMVsekKL5ijF+ghj52ff6cKc=",
+			"path": "github.com/apcera/termtables/term",
+			"revision": "376560f0b13dc5279cd16f6f94a3e3fab6008b23",
+			"revisionTime": "2016-12-02T20:31:05Z"
+		}
+	],
+	"rootPath": "github.com/maxlinc/tabler"
+}
