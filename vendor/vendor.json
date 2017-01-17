@@ -13,6 +13,22 @@
 			"path": "github.com/apcera/termtables/term",
 			"revision": "376560f0b13dc5279cd16f6f94a3e3fab6008b23",
 			"revisionTime": "2016-12-02T20:31:05Z"
+		},
+		{
+			"checksumSHA1": "yf185lmVPcvXjLZuPT1s4JzxI18=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "737072b4e32b7a5018b4a7125da8d12de90e8045",
+			"revisionTime": "2016-10-12T01:35:12Z"
+		},
+		{
+			"checksumSHA1": "4+01HaD0/pVQLzk7nWmoJwolfrY=",
+			"path": "github.com/olekukonko/tablewriter",
+			"revision": "44e365d423f4f06769182abfeeae2b91be9d529b",
+			"revisionTime": "2016-12-29T08:21:16Z"
+		},
+		{
+			"path": "https://github.com/olekukonko/tablewriter",
+			"revision": ""
 		}
 	],
 	"rootPath": "github.com/maxlinc/tabler"

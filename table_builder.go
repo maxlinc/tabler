@@ -1,7 +1,5 @@
 package tabler
 
-import "fmt"
-
 type TableBuilder struct {
 	// Headers are a ordered list of column header names
 	headers []string
@@ -38,7 +36,6 @@ func (tableBuilder *TableBuilder) AddRow(firstValue string, callback RowCallback
 	for _, header := range tableBuilder.headers {
 		if header == firstColumnName {
 			//	First column
-			fmt.Printf("Adding firstValue %s as %s", firstValue, firstColumnName)
 			rowData[firstColumnName] = firstValue
 		} else {
 			rowData[header] = callback(header, firstValue)
